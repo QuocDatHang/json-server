@@ -1,0 +1,85 @@
+{
+  "customers": [
+    {
+      "fullName": "Meredith Padilla",
+      "email": "vikinybeky@gmail.com",
+      "phone": "0152 759 556",
+      "address": "12-Nov-1982",
+      "balance": 0,
+      "deleted": 0,
+      "id": 16
+    },
+    {
+      "fullName": "Ruby Vance",
+      "email": "zyzy@gmail.com",
+      "phone": "0705 353 355",
+      "address": "Iusto aliquip tenetu",
+      "balance": 0,
+      "deleted": 0,
+      "id": 17
+    },
+    {
+      "fullName": "Aaron Adams111",
+      "email": "demicowy@gmail.com12",
+      "phone": "0956 311 268",
+      "address": "Irure eos ipsam mini",
+      "balance": 110000,
+      "deleted": 0,
+      "id": 18
+    },
+    {
+      "fullName": "Claire Carroll",
+      "email": "tege@mailinator.com",
+      "phone": "33333333",
+      "address": "Sint amet corporis",
+      "balance": 3000,
+      "deleted": 0,
+      "id": 19
+    },
+    {
+      "fullName": "Connor Johnston",
+      "email": "viky@gmail.com",
+      "phone": "0136 766 183",
+      "address": "Magna cillum ut ipsa",
+      "balance": 1000,
+      "deleted": 0,
+      "id": 23
+    },
+    {
+      "fullName": "Nigel Evans",
+      "email": "wykado@gmail.com",
+      "phone": "0567 173 351",
+      "address": "Sed ea nemo est irur",
+      "balance": 0,
+      "deleted": 0,
+      "id": 24
+    },
+    {
+      "fullName": "Cedric Dean",
+      "email": "lafidenoxu@gmail.com",
+      "phone": "0454 741 287",
+      "address": "44Sunt omnis id fuga 4",
+      "balance": 0,
+      "deleted": 0,
+      "id": 25
+    },
+    {
+      "fullName": "rrrrrrrrrrr",
+      "email": "varafa@gmail.com",
+      "phone": "0341 981 337",
+      "address": "Quisquam eum nostrud",
+      "balance": 0,
+      "deleted": 0,
+      "id": 26
+    },
+    {
+      "fullName": "Simone Downs",
+      "email": "qovorygyk@gmail.com",
+      "phone": "0483 145 603",
+      "address": "Sed quia amet optio",
+      "balance": 0,
+      "deleted": 0,
+      "id": 27
+    }
+  ]
+}
